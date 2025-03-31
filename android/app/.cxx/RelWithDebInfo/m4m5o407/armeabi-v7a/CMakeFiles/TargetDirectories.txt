@@ -1,0 +1,2 @@
+/Users/davidabari/mad/madproject1/android/app/.cxx/RelWithDebInfo/m4m5o407/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/davidabari/mad/madproject1/android/app/.cxx/RelWithDebInfo/m4m5o407/armeabi-v7a/CMakeFiles/rebuild_cache.dir
